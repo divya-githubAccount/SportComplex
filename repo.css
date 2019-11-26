@@ -1,0 +1,58 @@
+body{
+  background-color: lightgrey;
+}
+
+#re1{
+  background-color:grey;
+  padding-top:20px;
+  padding-left:40px;
+  padding-bottom:20px;
+
+}
+#ae1{
+  color:white;
+  text-decoration: none;
+  font-family: Calibri;
+}
+#re3{
+  padding-bottom: 30px;
+}
+#re2
+{
+  padding-left:40px;
+  padding-top:20px;
+  padding-right:40px;
+  padding-bottom:20px;
+  font-family: Consolas;
+  background-color:lightblue;
+}
+#p1{
+  border: 5px solid black;
+  box-shadow:10px 10px 5px grey;
+}
+#f1{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 50px;
+
+}
+
+#f2{
+  padding-top: 60px;
+}
+#d2{
+  background-color: black;
+}
+#de{
+  padding-bottom: 10px;
+}
+#de2{
+  padding-right: 150px;
+
+}
+#de,#de1{
+  padding-left: 0px;
+  padding-right: 150px;
+  padding-bottom: 30px;
+   text-decoration: none;
+}
